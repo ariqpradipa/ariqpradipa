@@ -18,9 +18,6 @@ I'm currently working on tracker IoT and App for bus for Universitas Indonesia<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ariqpradipa&icon=2&color=8)](https://visitcount.itsvg.in)
 
