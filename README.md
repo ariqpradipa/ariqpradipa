@@ -64,14 +64,11 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=ariqpradipa&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
-</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ariqpradipa&icon=2&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
