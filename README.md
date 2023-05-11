@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hello there!👋  I'm Ariq Pradipa Santoso, an experienced computer engineer with a strong background in web development, programming, and event management background. I'm passionate about creating impactful digital experiences using various programming languages, such as HTML5, CSS, JavaScript, React JS, and Express JS.<br><br>🌟 Core Values<br>Throughout my journey, I have always emphasized the importance of:<br><br>💬 Regular communication with my teams.<br>⚙️ Maintaining quality and competence to achieve our goals.</h4>
+<h4 align="left">Hello there!👋  I'm Ariq Pradipa Santoso, an experienced computer engineer with a strong background in web development as a fullstack developer and programming. I'm passionate about creating impactful digital experiences using various programming languages, such as HTML5, CSS, JavaScript, React JS, and Express JS.<br><br>🌟 Core Values<br>Throughout my journey, I have always emphasized the importance of:<br><br>💬 Regular communication with my teams.<br>⚙️ Maintaining quality and competence to achieve our goals.</h4>
 
 ###
 
