@@ -91,7 +91,7 @@ Hello there!👋 I'm Ariq Pradipa Santoso, an experienced computer engineer with
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqpradipa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariqpradipa&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=ariqpradipa&theme=dark&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <br/>
