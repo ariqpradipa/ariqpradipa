@@ -13,17 +13,12 @@ Hello there!👋 I'm Ariq Pradipa Santoso, an experienced computer engineer with
 
 <br/>
 
-# 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariqpradipa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-<img src="https://streak-stats.demolab.com?user=ariqpradipa&theme=dark&mode=weekly" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ariqpradipa&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariqpradipa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariqpradipa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ariqpradipa&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ariqpradipa&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariqpradipa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 <br/>
@@ -34,11 +29,6 @@ Hello there!👋 I'm Ariq Pradipa Santoso, an experienced computer engineer with
 </div>
 
 <br/>
-
-### 😂 Random Dev Meme
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ariqpradipa&icon=0&color=0)](https://visitcount.itsvg.in)
